@@ -1,6 +1,4 @@
-# D-day
-
-### 날짜 입력시 D-day 알려주는 어플 
+# 날짜 입력시 D-day 알려주는 어플 
 ![image](https://user-images.githubusercontent.com/51785795/210125870-325df46f-1226-4471-a566-22d7b05da393.png)
 
 실행화면
